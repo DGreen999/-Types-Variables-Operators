@@ -1,0 +1,18 @@
+package tts.com.company;
+
+public class Main {
+
+    public static void main(String[] args) {
+        String Variable_Name;
+        String variable_Name;
+        String Variable_name;
+        String Variable Name;
+        //Only naming convention to create an error
+        String variable$name123;
+        String VARIABLE_NAme
+        String className = "";
+            System.out.println("Input Variable Name");
+            System.out.println("Class Name: " + className);
+
+    }
+}
